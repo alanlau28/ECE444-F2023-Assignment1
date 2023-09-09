@@ -1,4 +1,4 @@
-if name == '__main__':
+if __name__ == '__main__':
     print('Alan Lau 4')
     print('this one is different')
     print("c4")
