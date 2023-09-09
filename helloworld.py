@@ -1,2 +1,2 @@
 if name == '__main__':
-    print('Hello World')
+    print('Alan Lau')
