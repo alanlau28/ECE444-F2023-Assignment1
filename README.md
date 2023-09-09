@@ -6,6 +6,7 @@
 ### 4.
 ![image](https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/912a7ce0-04b5-43fe-ae82-b773ef019472)
 ### 5.
+![image](https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/ba545c2c-bd98-4d03-a0d1-8f9b5d28754f)
 ![image](https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/dba10a02-d77c-47eb-bca2-b27976d3ec1d)
 ![image](https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/8458cf92-f4d1-4284-9236-071bd6573a06)
 
