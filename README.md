@@ -1,6 +1,7 @@
 # Alan Lau
 ### 1.
-<img width="766" alt="image" src="https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/80f13bb2-0157-4ab1-8090-f22fe2ca0902">
+<img width="766" alt="image" src="https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/6ac69f47-053b-4b79-8238-f86d7c4c200e">
+
 ### 2.
 ![image](https://github.com/alanlau28/ECE444-F2023-Assignment1/assets/72107214/b16f0214-7a4c-4fb5-a5ad-410290434b5d)
 ### 3.
